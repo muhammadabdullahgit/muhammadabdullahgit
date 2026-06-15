@@ -1,4 +1,3 @@
-<!--
 **muhammadabdullahgit/muhammadabdullahgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi 👋, I'm Muhammad Abdullah
 ## 🚀 Software Engineering Student | AI & Backend Developer
@@ -62,4 +61,3 @@ I'm a Software Engineering student at Information Technology University (ITU), L
 - Email: muhammadabdullah23100it@gmail.com
 ---
 ⭐ Thanks for visiting my profile!
--->
